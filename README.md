@@ -1,6 +1,6 @@
 # GigaLearnAdvisor
 
-![GigaLearn Logo](GigaLearnScanner.png)
+![GigaLearn Logo](Image.png)
 
 GigaLearnAdvisor is a standalone Windows utility for generating hardware-based starting settings for GigaLearnCPP.
 It scans your machine and recommends:
